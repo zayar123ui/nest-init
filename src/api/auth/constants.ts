@@ -1,3 +1,4 @@
-export const jwtConstants = {
-  secret: '$3CR3CTK3Y',
-};
+// export const jwtConstants = {
+//   secret: '',
+// };
+//hello i am under water pls help me
